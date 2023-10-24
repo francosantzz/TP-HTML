@@ -1,0 +1,68 @@
+{
+    "loles": [
+      {
+        "id": 1,
+        "title": "Diseñar la interfaz de usuario",
+        "category": "Por Hacer",
+        "time": "1 día",
+        "description": "Crear diseños de la interfaz de usuario, incluyendo páginas de inicio, productos y carrito de compras.",
+        "image": "https://img.freepik.com/fotos-premium/desarrollando-programador-concentrado-leyendo-codigos-computadora-desarrollo-diseno-sitios-web_45041-178.jpg?w=740"
+      },
+      {
+        "id": 2,
+        "title": "Configurar servidor web",
+        "category": "Por Hacer",
+        "time": "1 día",
+        "description": "Configurar un servidor web para alojar la aplicación eCommerce y la API.",
+        "image": "https://img.freepik.com/vector-gratis/base-datos-almacenamiento-organizacion-informacion-digital-personaje-dibujos-animados-trabajador-soporte-tecnico-optimizacion-seo-hardware-informatico_335657-836.jpg?size=626&ext=jpg&uid=R122082702&ga=GA1.1.1370506974.1698105474&semt=ais"
+      },
+      {
+        "id": 3,
+        "title": "Implementar la autenticación de usuarios",
+        "category": "En Producción",
+        "time": "1 día",
+        "description": "Agregar la autenticación de usuarios para permitir que los clientes se registren y se autentiquen en la aplicación.",
+        "image": "https://img.freepik.com/foto-gratis/registrarse-registrarse-concepto-membresia_53876-121221.jpg?size=626&ext=jpg&uid=R122082702&ga=GA1.1.1370506974.1698105474&semt=ais"
+      },
+      {
+        "id": 4,
+        "title": "Desarrollar la funcionalidad de la edición de tareas",
+        "category": "En Producción",
+        "time": "1 día",
+        "description": "Implementar la funcionalidad del editor de tareas para que se pueda cambiar el estado de cada una.",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-concepto-trabajo-curso_114360-5211.jpg?size=626&ext=jpg&uid=R122082702&ga=GA1.1.1370506974.1698105474&semt=ais"
+      },
+      {
+        "id": 5,
+        "title": "Pruebas de rendimiento",
+        "category": "Por Testear",
+        "time": "1 día",
+        "description": "Realizar pruebas de rendimiento para garantizar que la aplicación pueda manejar la carga de tráfico esperada.",
+        "image": "https://img.freepik.com/vector-gratis/ilustracion-punto-referencia-diseno-plano-dibujado-mano_23-2149331621.jpg?size=626&ext=jpg&uid=R122082702&ga=GA1.1.1370506974.1698105474&semt=ais"
+      },
+      {
+        "id": 6,
+        "title": "Pruebas de seguridad",
+        "category": "Por Testear",
+        "time": "1 día",
+        "description": "Realizar pruebas de seguridad para identificar y corregir posibles vulnerabilidades en la aplicación.",
+        "image": "https://img.freepik.com/foto-gratis/concepto-control-calidad-estandar-m_23-2150041858.jpg?size=626&ext=jpg&uid=R122082702&ga=GA1.1.1370506974.1698105474&semt=ais"
+      },
+      {
+        "id": 7,
+        "title": "Lanzamiento de la aplicación eCommerce",
+        "category": "Completadas",
+        "time": "1 día",
+        "description": "Preparar la aplicación eCommerce para su lanzamiento en producción y anunciarla al público.",
+        "image": "https://img.freepik.com/foto-gratis/concepto-marketing-redes-sociales-marketing-aplicaciones_23-2150063168.jpg?size=626&ext=jpg&uid=R122082702&ga=GA1.1.1370506974.1698105474&semt=ais"
+      },
+      {
+        "id": 8,
+        "title": "Monitoreo y mantenimiento continuo",
+        "category": "Completadas",
+        "time": "1 día",
+        "description": "Establecer un sistema de monitoreo y mantener la aplicación eCommerce con actualizaciones y correcciones de errores.",
+        "image": "https://img.freepik.com/vector-gratis/chicos-soporte-tecnico-trabajando-reparacion-hardware-software-computadora-solucion-problemas-solucion-problemas-concepto-verificacion-problemas-ilustracion-aislada-violeta-vibrante-brillante_335657-364.jpg?size=626&ext=jpg&uid=R122082702&ga=GA1.1.1370506974.1698105474&semt=ais"
+      }
+    ]
+  }
