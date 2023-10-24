@@ -6,11 +6,11 @@ Este proyecto es una aplicación web que muestra tareas organizadas en diferente
 
 Asegúrate de tener instalado Node.js en tu sistema. Puedes descargarlo desde [Node.js](https://nodejs.org/).
 
-##Instala JSON Server si no lo tienes instalado:
+## Instala JSON Server si no lo tienes instalado:
 
 npm install -g json-server
 
-##Uso
+## Uso
 Inicializa JSON Server con el archivo JSON proporcionado (db.json) para simular una API REST:
 
 json-server --watch db.json 
